@@ -18,7 +18,7 @@ Hello! My name is Michael, and I'm currently family-ing, designing, coding & tra
 <!-- PORTFOLIO:END -->
 
 
-You can see more of my recent projects here: https://walsh.soy/my-work/
+You can see more of my recent projects here: https://yowalsh.dev/my-work/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
@@ -31,5 +31,5 @@ You can see more of my recent projects here: https://walsh.soy/my-work/
 
 ### **Follow Me Here:**
 
-- **GitHub**: https://github.com/elmikewalsh
-- **Medium**: https://medium.com/@elmikewalsh/
+- **GitHub**: https://github.com/yowalsh
+- **Medium**: https://yowalsh.medium.com/
