@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://yowalsh.dev/my-work/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [A random list of silly things I hate](https://yowalsh.com/a-random-list-of-silly-things-i-hate/)
 - [A Trip to Buenos Aires](https://yowalsh.com/a-trip-to-buenos-aires/)
 - [Tool Obsession](https://yowalsh.com/tool-obsession/)
 - [The Perfect Carrot](https://yowalsh.com/one-perfect-carrot/)
 - [Email &amp; Encryption](https://yowalsh.com/email-and-encryption/)
-- [Mac to the Big Apple](https://yowalsh.com/mac-to-the-big-apple/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
